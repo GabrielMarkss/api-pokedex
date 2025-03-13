@@ -1,0 +1,28 @@
+{
+  "name": "spa-pokedex-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@angular/cli": "^19.2.1",
+    "@angular/common": "^19.2.1",
+    "@angular/core": "^19.2.1",
+    "@angular/forms": "^19.2.1",
+    "@angular/router": "^19.2.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^5.1.7",
+    "jasmine-core": "^5.6.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "karma": "^6.4.4",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-coverage": "^2.2.1",
+    "karma-jasmine": "^5.1.0"
+  }
+}
